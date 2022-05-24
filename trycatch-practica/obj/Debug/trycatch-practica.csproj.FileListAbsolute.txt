@@ -1,0 +1,7 @@
+C:\Users\AERO COOL\Documents\GitHub\trycatch-practica\trycatch-practica\bin\Debug\trycatch-practica.exe.config
+C:\Users\AERO COOL\Documents\GitHub\trycatch-practica\trycatch-practica\bin\Debug\trycatch-practica.exe
+C:\Users\AERO COOL\Documents\GitHub\trycatch-practica\trycatch-practica\bin\Debug\trycatch-practica.pdb
+C:\Users\AERO COOL\Documents\GitHub\trycatch-practica\trycatch-practica\obj\Debug\trycatch-practica.csproj.AssemblyReference.cache
+C:\Users\AERO COOL\Documents\GitHub\trycatch-practica\trycatch-practica\obj\Debug\trycatch-practica.csproj.CoreCompileInputs.cache
+C:\Users\AERO COOL\Documents\GitHub\trycatch-practica\trycatch-practica\obj\Debug\trycatch-practica.exe
+C:\Users\AERO COOL\Documents\GitHub\trycatch-practica\trycatch-practica\obj\Debug\trycatch-practica.pdb
